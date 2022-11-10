@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(240, 236, 229, 0.47);
+}
+#main-bg,#skills,#about-me{
+    height: 100vh;
+}
+#connect {
+    height: 80vh;
+}
+.gray-600{
+    color: #7c7c7c;
+}
+
+.exp-card{
+    max-width: 50rem;
+    background-color: rgba(233, 233, 233, 0.797);
+}
